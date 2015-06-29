@@ -1,0 +1,157 @@
+html, body {
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+	background: #141414;
+
+
+}
+.jiklos1{
+	position: absolute;
+	left: 19%;
+	top: 66%;
+	z-index: 1;
+}
+.jiklos2{
+	position: absolute;
+	left: 75%;
+	top: 66%;
+	z-index: 1;
+}
+.jiklos3{
+	position: absolute;
+	left: 47%;
+	top: 66%;
+	z-index: 1;
+}
+.air{
+	position: absolute;
+	color: white;
+	font-size: 3em;
+	left: 41%;
+	top: 54%;
+}
+.i1{
+	position: absolute;
+	top: 62;
+	left: 15%;
+	width: 15%;
+}
+.i2{
+	position: absolute;
+	top: 62;
+	left: 43%;	
+	width: 15%;
+}
+.i3{
+	position: absolute;
+	top: 62;
+	left: 71%;	
+	width: 15%;
+}
+#output{
+	color: white;
+	font-size: 5em;
+	text-align: center;
+}
+
+.textoui1{
+	color: white;
+	font-size: 1.9em;
+	position: absolute;
+	left: 11%;
+}
+.textoui2{
+	color: white;
+	font-size: 1.9em;
+	position: absolute;
+	left: 25%;
+}
+.textoui3{
+	color: white;
+	font-size: 1.9em;
+	position: absolute;
+	left: 40%;
+}
+.textoui4{
+	color: white;
+	font-size: 1.9em;
+	position: absolute;
+	left: 53.9%;
+}
+.textoui5{
+	color: white;
+	font-size: 1.9em;
+	position: absolute;
+	left: 69%;
+}
+.textoui6{
+	color: white;
+	font-size: 1.9em;
+	position: absolute;
+	left: 83%;
+}
+
+.line-separator{
+	height:5px;
+	background:#003366;
+	margin-top: 23vh;
+	float: top;
+}
+.grammoua{
+	border-left: thick solid #003366;
+	margin-left: 14%;
+
+
+}
+#circle {
+position: absolute;
+top: 42vh;
+width: 8%;
+border-radius: 50%;
+height: auto;
+padding-top: 8%;
+background: #003366;
+}
+
+#circleBoom {
+position: absolute;
+top: 39vh;
+border-radius: 50%;
+width: 12%;
+height: auto;
+padding-top: 12%;
+background: #003366;
+opacity: 0.5;
+}
+
+#circlesmall {
+position: absolute;
+top: 21vh;
+border-radius: 50%;
+width: 3%;
+height: auto;
+padding-top: 3%;
+background: #003366;
+left:0%;
+}
+
+.circle1{
+	left: 20%;	
+}
+.circle2{
+	left: 45%;
+}
+.circle3{
+	left: 70%;
+}
+.circle11{
+	left: 18%;	
+}
+.circle21{
+	left: 43%;
+}
+.circle31{
+	left: 68%;
+}
+
